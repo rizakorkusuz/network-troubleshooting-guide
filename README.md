@@ -1,7 +1,7 @@
 # network-troubleshooting-guide
 Practical network troubleshooting commands and real-world scenarios
 
-# Network Troubleshooting Guide – Rıza Korkusuz | IT Support | Network Security
+# Network Troubleshooting Guide – Rıza Korkusuz | IT Support | Network Security | Cybersecurity
 
 This repository contains practical network troubleshooting commands, concepts, and real-world diagnostic scenarios.
 
